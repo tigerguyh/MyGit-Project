@@ -1,0 +1,10 @@
+<div class="box" id="ask-box">
+  <div class="bd">
+    <div id="ask-box-title">有问题...上打听</div>
+    <form id="ask-box-form" method="post" action="#">
+      <input value="请在此输入问题的关键词" id="ask-box-text">
+      <input type="submit" value="马上找答案" id="ask-box-submit">
+    </form>
+    <div id="ask-box-keyword">热门搜索：<a href="#">优质产品</a>，<a href="#">收款帐户</a>，<a href="">物流运费</a></div>
+  </div>
+</div>
